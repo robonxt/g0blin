@@ -1,5 +1,5 @@
 ## g0blinXv0rtex - A g0blin & v0rtex remix jailbreak
-This is a fork of Sticktron's g0blin jailbreak merged with xPreeks's tweaks and offsets.
+This is a fork of @Sticktron's g0blin jailbreak merged with @xPreeks's tweaks and offsets.
 
 Fork not working because I deleted my project files, gonna remake them maybe.
 
@@ -10,13 +10,18 @@ Fork not working because I deleted my project files, gonna remake them maybe.
 ## Q&A
 
 Q: What is this?
+
 A: A semi-working, semi-tethered jailbreak made by Sticktron and modified with xPreek's tweaks.
 
 Q: Does it work?
+
 A: If you don't mind having a buggy and possibly broken phone, then yes.
 
 Q: I got a problem!
+
 A: Sorry, I'm not the developer, can't really help you.
+
+
 
 Credits to the original devs, I only merged and compiled the .ipa.
 
