@@ -1,17 +1,22 @@
-## g0blinXv0rtex - A g0blin & v0rtex remix jailbreak
+# USE AT YOUR OWN RISK
+
+
+## gXv or g0blinXv0rtex - A g0blin & v0rtex jailbreak remix done right (hopefully)
+
 This is a fork of @Sticktron's g0blin jailbreak merged with @xPreeks's tweaks and offsets.
 
-Fork not working because I deleted my project files, gonna remake them maybe.
+<s>Fork not working because I deleted my project files, gonna remake them maybe.</s>
+EDIT (01/03/2018): Uploaded my merged files, hopefully they work (.ipa file works for sure as in installing and running)
 
-## .ipa file (Updated on 01/03/2018 19:45) 
+### .ipa file (Updated on 01/03/2018 19:45) 
 
 .ipa compiled by me, and working on my iPhone 5s on iOS 10.3.3.
 
-## Q&A
+### Q&A
 
 Q: What is this?
 
-A: A semi-working, semi-tethered jailbreak made by Sticktron and modified with xPreek's tweaks.
+A: A semi-working, semi-tethered jailbreak made by @Sticktron and modified with @xPreeks's tweaks.
 
 Q: Does it work?
 
@@ -19,14 +24,14 @@ A: If you don't mind having a buggy and possibly broken phone, then yes.
 
 Q: I got a problem!
 
-A: Sorry, I'm not the developer, can't really help you.
+A: Sorry, I'm not the developer of the jailbreak, ask @Sticktron
 
 
 
-Credits to the original devs, I only merged and compiled the .ipa.
+All credits to the original devs, I only merged and compiled the .ipa.
 
 
-// ORGINAL README STARTS HERE //
+# // ORGINAL README STARTS HERE //
 
 # g0blin
 
