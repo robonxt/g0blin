@@ -1,3 +1,17 @@
+# g0blinXv0rtex
+This is a fork of Sticktron's g0blin jailbreak merged with xPreeks's tweaks and offsets.
+
+Fork not working because I deleted my project files, gonna remake them maybe.
+
+## ipa file (Updated on 01/03/2018 19:45) 
+
+.ipa compiled by me, and working on my iPhone 5s on iOS 10.3.3.
+
+Credits to the original devs, I only merged and compiled the .ipa.
+
+
+// ORGINAL README STARTS HERE //
+
 # g0blin
 
 An incomplete jailbreak for A7-A9 devices on iOS 10.3.x
