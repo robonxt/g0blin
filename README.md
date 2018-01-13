@@ -1,3 +1,6 @@
+# EDIT: Sticktron has released his official .ipa! Go to https://g0blin.sticktron.net/ for his official release.
+# This fork is now frozen for archiving.
+
 # USE AT YOUR OWN RISK
 
 
